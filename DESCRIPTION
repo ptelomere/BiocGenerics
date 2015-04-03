@@ -1,4 +1,4 @@
-Package: BiocGenerics
+Package: BiocGenerics 
 Title: S4 generic functions for Bioconductor
 Description: S4 generic functions needed by many Bioconductor packages.
 Version: 0.13.11
